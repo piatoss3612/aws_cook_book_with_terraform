@@ -5,7 +5,8 @@ This repository contains terraform code to create AWS resources for the [AWS Coo
 ## Table of Contents
 
 * [Prerequisites](#prerequisites)
-* [01.Security](#01security)
+* [Chapters](#chapters)
+* [References](#references)
 
 ## Prerequisites
 
@@ -13,10 +14,16 @@ This repository contains terraform code to create AWS resources for the [AWS Coo
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) installed
 * AWS credentials configured
 
-## 01.Security
+## Chapters
 
 table
 
-| Name | Link |
+| Chapter | Link |
 | --- | --- |
-| 01.Creating and Assuming an IAM Role | https://github.com/piatoss3612/aws_cook_book_with_terraform/tree/01.security/01.Creating-and-Assuming-an-IAM-Role |
+| 01.Security | https://github.com/piatoss3612/aws_cook_book_with_terraform/tree/01.security |
+| 09.AccountManagement | https://github.com/piatoss3612/aws_cook_book_with_terraform/tree/09.accountmanagement |
+
+## References
+
+* [AWS Cookbook](https://github.com/AWSCookbook)
+* [Terraform Registry](https://registry.terraform.io/)
